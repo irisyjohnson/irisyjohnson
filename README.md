@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Iris Johnson 👋
 
-<!--
-**irisyjohnson/irisyjohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lecturer-Researcher at [NHL Stenden University of Applied Sciences](https://www.nhlstenden.com), working with the Smart Sustainable Manufacturing research group and the Intelligent Software & Algorithms Lab. I teach across Computer Science and Applied Business Analytics.
 
-Here are some ideas to get you started:
+## What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Teaching**: AI literacy, data science, computational thinking
+- 📐 **Standards**: Active in ISO/IEC JTC 1/SC 42 and CEN/CENELEC JTC 21
+- 🔬 **Research**: PhD from Utrecht University on music pattern discovery and functional programming. Current interests include applied AI, standards, data science, and complex systems.
+
+## Languages and tools
+
+**Main languages**: Python, R, Haskell
+
+**Tooling**: Docker, Git, Vim, Org-mode, Obsidian
+
+## Beyond the keyboard
+
+- 🎻 Violinist in a local orchestra, with concert performances across several countries
+- 🧳 I have lived in 🇨🇳 🇺🇸 🇫🇷 🇬🇧 and now 🇳🇱
+- 🌏 Multilingual: Mandarin Chinese, English, Japanese, Dutch, and a few more in progress
+
+## Get in touch
+
+ 💼 [LinkedIn](https://www.linkedin.com/in/irisyjohnson/)
