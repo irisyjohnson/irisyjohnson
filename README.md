@@ -1,6 +1,6 @@
 # Hi, I'm Iris Johnson 👋
 
-Lecturer-Researcher at [NHL Stenden University of Applied Sciences](https://www.nhlstenden.com), working with the Smart Sustainable Manufacturing research group and the Intelligent Software & Algorithms Lab. I teach across Computer Science and Applied Business Analytics.
+Associate Professor of Applied Sciences at [NHL Stenden University of Applied Sciences](https://www.nhlstenden.com), working with the Smart Sustainable Manufacturing research group and the Intelligent Software & Algorithms Lab. I teach across Computer Science and Applied Business Analytics.
 
 ## What I work on
 
